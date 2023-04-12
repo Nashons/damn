@@ -1,0 +1,49 @@
+Ultrabook X1 Extreme
+A slim, powerful ultrabook featuring a 14-inch FHD display, Intel Core i7 processor, 16GB RAM, and 512GB SSD.
+Price: $1,500
+Location: (45.5128, -122.6587, 1)
+
+GamerMaster 3000
+A high-performance gaming laptop with a 15.6-inch FHD display, NVIDIA GeForce RTX 3070, Intel Core i9 processor, 32GB RAM, and 1TB SSD.
+Price: $2,200
+Location: (45.5128, -122.6587, 2)
+
+Workhorse Pro 15
+A reliable business laptop featuring a 15.6-inch FHD display, Intel Core i5 processor, 8GB RAM, and 256GB SSD.
+Price: $900
+Location: (45.5128, -122.6587, 3)
+
+Creativity Companion
+A versatile laptop for creators, featuring a 13.3-inch 4K touchscreen display, Intel Core i7 processor, 16GB RAM, 512GB SSD, and NVIDIA GeForce GTX 1650.
+Price: $1,800
+Location: (45.5128, -122.6587, 4)
+
+Budget Buddy
+An affordable laptop with a 14-inch HD display, Intel Celeron processor, 4GB RAM, and 128GB SSD.
+Price: $350
+Location: (45.5128, -122.6587, 5)
+
+ChromeBook Plus
+A lightweight Chromebook with a 12.2-inch FHD touchscreen display, Intel Celeron processor, 4GB RAM, and 64GB eMMC storage.
+Price: $450
+Location: (45.5128, -122.6587, 6)
+
+MacBook Pro 16
+A premium laptop featuring a 16-inch Retina display, Apple M1 Pro chip, 16GB RAM, and 512GB SSD.
+Price: $2,400
+Location: (45.5128, -122.6587, 7)
+
+Convertible Flex 13
+A 2-in-1 laptop with a 13.3-inch FHD touchscreen display, Intel Core i5 processor, 8GB RAM, and 256GB SSD.
+Price: $750
+Location: (45.5128, -122.6587, 8)
+
+UltraSlim Elite 14
+A thin and lightweight laptop with a 14-inch FHD display, AMD Ryzen 5 processor, 8GB RAM, and 256GB SSD.
+Price: $800
+Location: (45.5128, -122.6587, 9)
+
+Powerhouse Studio 17
+A high-end laptop designed for professionals, featuring a 17-inch 4K display, Intel Core i9 processor, 32GB RAM, 1TB SSD, and NVIDIA GeForce RTX 3080.
+Price: $3,500
+Location: (45.5128, -122.6587, 10)

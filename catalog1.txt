@@ -1,0 +1,49 @@
+SpeedMaster 5000
+A lightweight, high-performance running shoe designed for athletes who demand speed and durability. Featuring a breathable mesh upper, cushioned insole, and a shock-absorbing outsole.
+Price: $120
+Location: (34.0522, -118.2437, 5)
+
+TrailBlazer XT
+A rugged trail shoe built to withstand the toughest terrain. With an aggressive outsole for exceptional grip, a waterproof upper, and superior ankle support.
+Price: $140
+Location: (34.0522, -118.2437, 10)
+
+CityWalker Deluxe
+A stylish and comfortable walking shoe for urban environments. Features a cushioned insole, flexible sole, and breathable fabric upper.
+Price: $85
+Location: (34.0522, -118.2437, 15)
+
+Elegant Heels Eleganza
+A chic, elegant high heel perfect for any formal occasion. Features a slender heel, cushioned insole, and an adjustable ankle strap.
+Price: $150
+Location: (34.0522, -118.2437, 20)
+
+WorkMaster Pro
+A durable, slip-resistant work shoe designed for long hours on your feet. Features a steel toe cap, cushioned insole, and oil-resistant outsole.
+Price: $110
+Location: (34.0522, -118.2437, 25)
+
+ComfySneaks Everyday
+A casual, everyday sneaker with a comfortable insole and a breathable fabric upper. Perfect for leisure activities and everyday wear.
+Price: $60
+Location: (34.0522, -118.2437, 30)
+
+LittleFeet Kids' Runner
+A colorful, lightweight running shoe designed for kids. Features a flexible sole, cushioned insole, and durable upper.
+Price: $45
+Location: (34.0522, -118.2437, 35)
+
+BeachBuddy Flip Flops
+A comfortable, water-resistant flip flop for beach and poolside wear. Features a soft, cushioned footbed and a non-slip outsole.
+Price: $25
+Location: (34.0522, -118.2437, 40)
+
+WinterWarrior Snow Boot
+A waterproof, insulated snow boot designed to keep your feet warm and dry during winter months. Features a sturdy outsole for traction and a faux fur lining for added warmth.
+Price: $120
+Location: (34.0522, -118.2437, 45)
+
+YogaFlow Studio Slipper
+A flexible, non-slip studio shoe designed for yoga, Pilates, and other low-impact exercises. Features a breathable fabric upper and a supportive, cushioned insole.
+Price: $50
+Location: (34.0522, -118.2437, 50)
