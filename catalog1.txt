@@ -1,49 +1,35 @@
-SpeedMaster 5000
-A lightweight, high-performance running shoe designed for athletes who demand speed and durability. Featuring a breathable mesh upper, cushioned insole, and a shock-absorbing outsole.
-Price: $120
-Location: (34.0522, -118.2437, 5)
+ShopName: Nike
+ProductName: Air Jordan 1 Mid SE
+ProductDescription: The Air Jordan 1 Mid SE combines premium materials with a classic design that pays homage to the iconic Jordan 1s. Featuring a leather upper and Nike Air cushioning, this shoe is comfortable and stylish.
+Price: KSH 11,999
+Location: (-1.2833, 36.8167, 0)
+link: https://www.nike.com/ke/t/air-jordan-1-mid-se-shoe-lDDv5m/DC1426-001
+ProductImageUrl: https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/g9a2xfju1ksis7ekogef/air-jordan-1-mid-se-shoe-LDDv5m.jpg
+ShopImageUrl: https://www.nike.com/
 
-TrailBlazer XT
-A rugged trail shoe built to withstand the toughest terrain. With an aggressive outsole for exceptional grip, a waterproof upper, and superior ankle support.
-Price: $140
-Location: (34.0522, -118.2437, 10)
+ShopName: Adidas
+ProductName: Adidas Originals Superstar
+ProductDescription: The Adidas Originals Superstar is a classic shoe that has been popular for decades. Featuring a leather upper and the iconic Adidas stripes, this shoe is both comfortable and stylish.
+Price: KSH 8,999
+Location: (-1.2833, 36.8167, 0)
+link: https://www.adidas.co.ke/originals_superstar
+ProductImageUrl: https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/2f9be3f0b32c4a1284d4a7ce00f4f8b4_9366/Superstar_Shoes_White_C77124_01_standard.jpg
+ShopImageUrl: https://www.adidas.co.ke/
 
-CityWalker Deluxe
-A stylish and comfortable walking shoe for urban environments. Features a cushioned insole, flexible sole, and breathable fabric upper.
-Price: $85
-Location: (34.0522, -118.2437, 15)
+ShopName: Puma
+ProductName: Puma Suede Classic
+ProductDescription: The Puma Suede Classic is a timeless shoe that has been popular for over 50 years. Featuring a suede upper and Puma branding, this shoe is both stylish and comfortable.
+Price: KSH 7,499
+Location: (-1.2833, 36.8167, 0)
+link: https://eu.puma.com/uk/en/pd/suede-classic%2B-trainers/352634.html
+ProductImageUrl: https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/352634/01/sv01/fnd/PNA/fmt/png/Suede-Classic%2B-Trainers
+ShopImageUrl: https://eu.puma.com/uk/en/home
 
-Elegant Heels Eleganza
-A chic, elegant high heel perfect for any formal occasion. Features a slender heel, cushioned insole, and an adjustable ankle strap.
-Price: $150
-Location: (34.0522, -118.2437, 20)
-
-WorkMaster Pro
-A durable, slip-resistant work shoe designed for long hours on your feet. Features a steel toe cap, cushioned insole, and oil-resistant outsole.
-Price: $110
-Location: (34.0522, -118.2437, 25)
-
-ComfySneaks Everyday
-A casual, everyday sneaker with a comfortable insole and a breathable fabric upper. Perfect for leisure activities and everyday wear.
-Price: $60
-Location: (34.0522, -118.2437, 30)
-
-LittleFeet Kids' Runner
-A colorful, lightweight running shoe designed for kids. Features a flexible sole, cushioned insole, and durable upper.
-Price: $45
-Location: (34.0522, -118.2437, 35)
-
-BeachBuddy Flip Flops
-A comfortable, water-resistant flip flop for beach and poolside wear. Features a soft, cushioned footbed and a non-slip outsole.
-Price: $25
-Location: (34.0522, -118.2437, 40)
-
-WinterWarrior Snow Boot
-A waterproof, insulated snow boot designed to keep your feet warm and dry during winter months. Features a sturdy outsole for traction and a faux fur lining for added warmth.
-Price: $120
-Location: (34.0522, -118.2437, 45)
-
-YogaFlow Studio Slipper
-A flexible, non-slip studio shoe designed for yoga, Pilates, and other low-impact exercises. Features a breathable fabric upper and a supportive, cushioned insole.
-Price: $50
-Location: (34.0522, -118.2437, 50)
+ShopName: Reebok
+ProductName: Reebok Classic Leather
+ProductDescription: The Reebok Classic Leather is a versatile shoe that can be dressed up or down. Featuring a leather upper and Reebok branding, this shoe is comfortable and stylish.
+Price: KSH 6,999
+Location: (-1.2833, 36.8167, 0)
+link: https://www.reebok.co.uk/classic-leather-shoes/M49799.html
+ProductImageUrl: https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/2ff2b08e1d4447c58a38a78d00be4f4d_9366/Classic_Leather_Shoes_Black_M49799_01_standard.jpg
+ShopImageUrl: https://www.reebok.co.uk/

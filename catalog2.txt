@@ -1,49 +1,53 @@
-Ultrabook X1 Extreme
-A slim, powerful ultrabook featuring a 14-inch FHD display, Intel Core i7 processor, 16GB RAM, and 512GB SSD.
-Price: $1,500
-Location: (45.5128, -122.6587, 1)
+ShopName: HP
+ProductName: HP Spectre x360
+ProductDescription: The HP Spectre x360 is a premium 2-in-1 laptop with a sleek design and powerful performance. Featuring a 13.3-inch 4K display and 11th Gen Intel Core processors, this laptop is perfect for work or entertainment on the go.
+Price: KSH 154,999
+Location: (-1.2833, 36.8167, 0)
+link: https://www8.hp.com/emea_africa/en/laptops/product-details/product-specifications/46461322
+ProductImageUrl: https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06698243.png
+ShopImageUrl: https://www8.hp.com/emea_africa/en/home.html
 
-GamerMaster 3000
-A high-performance gaming laptop with a 15.6-inch FHD display, NVIDIA GeForce RTX 3070, Intel Core i9 processor, 32GB RAM, and 1TB SSD.
-Price: $2,200
-Location: (45.5128, -122.6587, 2)
+ShopName: Dell
+ProductName: Dell XPS 13
+ProductDescription: The Dell XPS 13 is a premium ultrabook with a stunning InfinityEdge display and powerful performance. Featuring up to 11th Gen Intel Core processors and an ultra-thin design, this laptop is perfect for professionals and students alike.
+Price: KSH 159,999
+Location: (-1.2833, 36.8167, 0)
+link: https://www.dell.com/en-ke/shop/laptops/new-13-inch-laptop/spd/xps-13-9310-laptop
+ProductImageUrl: https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/xps_notebooks/13_9310/general/xps-13-9310-laptop-hero-504x350-ng.psd?fmt=jpg&wid=570&hei=400
+ShopImageUrl: https://www.dell.com/en-ke
 
-Workhorse Pro 15
-A reliable business laptop featuring a 15.6-inch FHD display, Intel Core i5 processor, 8GB RAM, and 256GB SSD.
-Price: $900
-Location: (45.5128, -122.6587, 3)
+ShopName: Lenovo
+ProductName: Lenovo ThinkPad X1 Carbon
+ProductDescription: The Lenovo ThinkPad X1 Carbon is a premium business laptop with a durable design and excellent performance. Featuring 11th Gen Intel Core processors and a 14-inch 4K display, this laptop is perfect for professionals on the go.
+Price: KSH 189,999
+Location: (-1.2833, 36.8167, 0)
+link: https://www.lenovo.com/ke/en/laptops/thinkpad/thinkpad-x1/ThinkPad-X1-Carbon-Gen-9-/p/22TP2X1X1C9
+ProductImageUrl: https://www.lenovo.com/medias/lenovo-laptop-thinkpad-x1-carbon-gen-9-hero.png?context=bWFzdGVyfHJvb3R8MjkzMTV8aW1hZ2UvcG5nfGhlZi9oNjUvOTU3Nzg3OTY0MjYwNC5wbmd8NTc1YjBkMDllZWMwMjNiY2Q2Mjg1ZmM4ZWY5MTA2OTQ0MmVjOTIyMmJjNjM1MTgxMTE5NzJkMmVlNDNmZjA4OQ
+ShopImageUrl: https://www.lenovo.com/ke/en/
 
-Creativity Companion
-A versatile laptop for creators, featuring a 13.3-inch 4K touchscreen display, Intel Core i7 processor, 16GB RAM, 512GB SSD, and NVIDIA GeForce GTX 1650.
-Price: $1,800
-Location: (45.5128, -122.6587, 4)
+ShopName: Apple
+ProductName: MacBook Air M1
+ProductDescription: The MacBook Air M1 is a lightweight and powerful laptop with Apple's latest M1 chip, which provides exceptional performance and long battery life. With a stunning Retina display and macOS, this laptop is perfect for students and professionals.
+Price: KSH 139,999
+Location: (-1.2833, 36.8167, 0)
+link: https://www.apple.com/ke/macbook-air/
+ProductImageUrl: https://www.apple.com/v/macbook-air/c/images/overview/hero_endframe__cifczf0z2py6_large.jpg
+ShopImageUrl: https://www.apple.com/ke/
 
-Budget Buddy
-An affordable laptop with a 14-inch HD display, Intel Celeron processor, 4GB RAM, and 128GB SSD.
-Price: $350
-Location: (45.5128, -122.6587, 5)
+ShopName: Apple
+ProductName: MacBook Pro 16-inch
+ProductDescription: The MacBook Pro 16-inch is a powerful laptop with a stunning Retina display and excellent performance. Featuring up to 8-core Intel Core processors, this laptop is perfect for professionals who need a powerful machine for demanding tasks.
+Price: KSH 374,999
+Location: (-1.2833, 36.8167, 0)
+link: https://www.apple.com/ke/macbook-pro-16/
+ProductImageUrl: https://www.apple.com/v/macbook-pro-16/a/images/overview/hero_endframe__a2cnqxtehms6_large.jpg
+ShopImageUrl: https://www.apple.com/ke/
 
-ChromeBook Plus
-A lightweight Chromebook with a 12.2-inch FHD touchscreen display, Intel Celeron processor, 4GB RAM, and 64GB eMMC storage.
-Price: $450
-Location: (45.5128, -122.6587, 6)
-
-MacBook Pro 16
-A premium laptop featuring a 16-inch Retina display, Apple M1 Pro chip, 16GB RAM, and 512GB SSD.
-Price: $2,400
-Location: (45.5128, -122.6587, 7)
-
-Convertible Flex 13
-A 2-in-1 laptop with a 13.3-inch FHD touchscreen display, Intel Core i5 processor, 8GB RAM, and 256GB SSD.
-Price: $750
-Location: (45.5128, -122.6587, 8)
-
-UltraSlim Elite 14
-A thin and lightweight laptop with a 14-inch FHD display, AMD Ryzen 5 processor, 8GB RAM, and 256GB SSD.
-Price: $800
-Location: (45.5128, -122.6587, 9)
-
-Powerhouse Studio 17
-A high-end laptop designed for professionals, featuring a 17-inch 4K display, Intel Core i9 processor, 32GB RAM, 1TB SSD, and NVIDIA GeForce RTX 3080.
-Price: $3,500
-Location: (45.5128, -122.6587, 10)
+ShopName: Google
+ProductName: Google Pixelbook Go
+ProductDescription: The Google Pixelbook Go is a lightweight and portable Chromebook with a beautiful design and excellent performance. Featuring up to 8th Gen Intel Core processors and a 13.3-inch display, this laptop is perfect for users who need a reliable machine for browsing and productivity.
+Price: KSH 129,999
+Location: (-1.2833, 36.8167, 0)
+link: https://store.google.com/ke/product/pixelbook_go?hl=en-GB
+ProductImageUrl: https://lh3.googleusercontent.com/e8Lzm6x1xdMmPHtREfRGiO8bsv_m0XkUMNfD88ktZMnv8ZGYMzQH55GbkDwHEJyRgBSsOpiX9TcTmT0dZzJqB_rBA1eX9g2l-LPzZK_7BTHhPhJn-OYoaYKBCyCTtwft-1myqXt1-t76tT8omZTDTTtPpi-SsJwRzk1LyWOSDP2KjI9Sg7SKRDKZdNSzSDQnlvBm4Dw4eYyKKH4YYVxtO6KTFU6VzNPXT8ldKW0xNyv5f5ot7I5N6FKWU7VdUJ6U09V6Uk8PTZrqx6vFpt5j5c7G5aJyWV7v-mzL9XcBnRz1pbZ2Hvamq3D4j1YJD39OXnWVzwvJq3tXrNFJmZmCCEKjOz-KGhBwJAJYF1MWlQ04jHJya9XQdcNQ_wEzj-7vN-_AVpJhRY01BjKREBnm0vxl9M3qJ
+ShopImageUrl: https://www.apple.com/ke/
